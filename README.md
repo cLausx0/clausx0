@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é David Almeida, estudante e entusiasta da área de tecnologia. 👋
 
 <!--
 **cLausx0/clausx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
